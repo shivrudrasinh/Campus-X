@@ -1,1 +1,0 @@
-###`Problem 12`:Write a program to print whether a given number is a prime number or not
